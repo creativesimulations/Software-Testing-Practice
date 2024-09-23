@@ -1,4 +1,3 @@
 # Software-Testing-Practice
-Practice software testing files
 
-This repository is dedicated to data that I use while practicing software testing.
+This repository is dedicated to a sample of test documents and automated testing code that I have written.
